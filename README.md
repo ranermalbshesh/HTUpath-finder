@@ -1,7 +1,7 @@
 # Students Path Finder
 
 ## Overview
-HTU Path Finder is a Python-based AI voice guidance system developed to assist prospective HTU students in evaluating admission eligibility, exploring available majors, and receiving automated responses through an intelligent chatbot interface.
+students Path Finder is a Python-based AI voice guidance system developed to assist prospective HTU students in evaluating admission eligibility, exploring available majors, and receiving automated responses through an intelligent chatbot interface.
 
 ## Key Features
 - Admission eligibility evaluation based on official university rules
